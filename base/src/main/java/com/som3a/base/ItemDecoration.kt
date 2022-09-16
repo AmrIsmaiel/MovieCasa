@@ -1,4 +1,4 @@
-package com.ietsolutions.android.base.presentation.view.adapter
+package com.som3a.base
 
 import android.graphics.Rect
 import android.view.View
