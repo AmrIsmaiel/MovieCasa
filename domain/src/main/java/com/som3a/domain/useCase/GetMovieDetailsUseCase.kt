@@ -1,6 +1,6 @@
 package com.som3a.domain.useCase
 
-import com.amosh.domain.qualifiers.IoDispatcher
+import com.som3a.domain.qualifiers.IoDispatcher
 import com.som3a.common.Resource
 import com.som3a.domain.entity.MovieDetails
 import com.som3a.domain.repository.Repository

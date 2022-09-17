@@ -1,7 +1,7 @@
 package com.som3a.moviecasa.application.di
 
-import com.amosh.domain.qualifiers.IoDispatcher
-import com.amosh.domain.qualifiers.MainDispatcher
+import com.som3a.domain.qualifiers.IoDispatcher
+import com.som3a.domain.qualifiers.MainDispatcher
 import com.som3a.domain.qualifiers.DefaultDispatcher
 import dagger.Module
 import dagger.Provides

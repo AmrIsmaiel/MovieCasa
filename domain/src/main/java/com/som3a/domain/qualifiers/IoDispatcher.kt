@@ -1,4 +1,4 @@
-package com.amosh.domain.qualifiers
+package com.som3a.domain.qualifiers
 
 import javax.inject.Qualifier
 
